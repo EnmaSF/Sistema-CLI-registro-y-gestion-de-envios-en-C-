@@ -3,7 +3,7 @@
 Sistema CLI para el registró y gestión de envíos en C++
 
 ## Autor
-**ENMANUEL SUAREZ**
+**Enmanuel Suarez**
 
 ## Licencia 📄
 MIT Public License
